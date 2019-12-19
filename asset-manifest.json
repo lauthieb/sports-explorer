@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sports-explorer/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/sports-explorer/static/js/main.eec5e3dd.chunk.js",
+    "main.js.map": "/sports-explorer/static/js/main.eec5e3dd.chunk.js.map",
+    "runtime-main.js": "/sports-explorer/static/js/runtime-main.409b19e2.js",
+    "runtime-main.js.map": "/sports-explorer/static/js/runtime-main.409b19e2.js.map",
+    "static/js/2.25da6df1.chunk.js": "/sports-explorer/static/js/2.25da6df1.chunk.js",
+    "static/js/2.25da6df1.chunk.js.map": "/sports-explorer/static/js/2.25da6df1.chunk.js.map",
+    "index.html": "/sports-explorer/index.html",
+    "precache-manifest.3f067da014ae4f36b08db3a49991aa4f.js": "/sports-explorer/precache-manifest.3f067da014ae4f36b08db3a49991aa4f.js",
+    "service-worker.js": "/sports-explorer/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/sports-explorer/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.25da6df1.chunk.js.LICENSE": "/sports-explorer/static/js/2.25da6df1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.409b19e2.js",
+    "static/js/2.25da6df1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.eec5e3dd.chunk.js"
+  ]
+}
