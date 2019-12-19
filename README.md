@@ -2,7 +2,7 @@
 
 > A big sports explorer. Use case for consuming the [Decathlon Sports API](https://developers.decathlon.com/products/sports)
 
-![./src/assets/images/screenshot.png]()
+![Screenshot of sports-explorer](https://raw.githubusercontent.com/lauthieb/sports-explorer/master/src/assets/screenshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
